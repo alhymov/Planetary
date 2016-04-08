@@ -1,0 +1,1671 @@
+object Form10: TForm10
+  Left = 0
+  Top = 0
+  Caption = 'Form10'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Center
+    Size.Width = 350.000000000000000000
+    Size.Height = 350.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Layout2: TLayout
+      Align = Top
+      Size.Width = 350.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Path1: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path10: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 90.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path11: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 100.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path12: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 110.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path13: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 120.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path14: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 130.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path15: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 140.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path16: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 150.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path17: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 160.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path18: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 170.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path19: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 180.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path2: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 10.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path20: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 190.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path21: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 200.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path22: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 210.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path23: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 220.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path24: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 230.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path25: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 240.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path26: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 250.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path27: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 260.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path28: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 270.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path29: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 280.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path3: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 20.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path30: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 290.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path31: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 300.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path32: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 310.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path33: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 320.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path34: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 330.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path35: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 340.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path36: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 350.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path4: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 30.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path5: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 40.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path6: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 50.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path7: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 60.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path8: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 70.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Path9: TPath
+        Align = Center
+        Data.Path = {
+          07000000000000000000000000000000020000000000803E0000003F02000000
+          000000000000803E020000000000003F0000803F020000000000803F0000803E
+          020000000000403F0000003F020000000000803F00000000}
+        RotationAngle = 80.000000000000000000
+        RotationCenter.Y = 7.000000000000000000
+        Size.Width = 30.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+      end
+    end
+  end
+  object Layout3: TLayout
+    Align = Center
+    Size.Width = 330.000000000000000000
+    Size.Height = 330.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Layout5: TLayout
+      Align = Top
+      Size.Width = 330.000000000000000000
+      Size.Height = 110.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Layout6: TLayout
+        Align = HorzCenter
+        Position.X = 140.000000000000000000
+        RotationAngle = 300.000000000000000000
+        RotationCenter.Y = 1.500000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 110.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 5
+        object Layout7: TLayout
+          Align = Client
+          Size.Width = 50.000000000000000000
+          Size.Height = 110.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Circle1: TCircle
+            Align = Center
+            Size.Width = 70.000000000000000000
+            Size.Height = 70.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Layout4: TLayout
+            Align = Bottom
+            Position.Y = 85.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            object Path37: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path38: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 40.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path39: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 80.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path40: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 120.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path41: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 160.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path42: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 200.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path43: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 240.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path44: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 280.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path45: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 320.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+          end
+          object Layout8: TLayout
+            Align = Top
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+          end
+          object FloatAnimation2: TFloatAnimation
+            Enabled = True
+            Duration = 36.000000000000000000
+            Inverse = True
+            Loop = True
+            PropertyName = 'RotationAngle'
+            StartValue = 0.000000000000000000
+            StopValue = 1440.000000000000000000
+          end
+        end
+      end
+      object Layout9: TLayout
+        Align = HorzCenter
+        Position.X = 140.000000000000000000
+        RotationCenter.Y = 1.500000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 110.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 3
+        object Layout10: TLayout
+          Align = Client
+          Size.Width = 50.000000000000000000
+          Size.Height = 110.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Circle2: TCircle
+            Align = Center
+            Size.Width = 70.000000000000000000
+            Size.Height = 70.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Layout11: TLayout
+            Align = Bottom
+            Position.Y = 85.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            object Path46: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path47: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 40.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path48: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 80.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path49: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 120.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path50: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 160.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path51: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 200.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path52: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 240.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path53: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 280.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path54: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 320.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+          end
+          object Layout12: TLayout
+            Align = Top
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+          end
+          object FloatAnimation3: TFloatAnimation
+            Enabled = True
+            Duration = 36.000000000000000000
+            Inverse = True
+            Loop = True
+            PropertyName = 'RotationAngle'
+            StartValue = 0.000000000000000000
+            StopValue = 1440.000000000000000000
+          end
+        end
+      end
+      object Layout13: TLayout
+        Align = HorzCenter
+        Position.X = 140.000000000000000000
+        RotationAngle = 60.000000000000000000
+        RotationCenter.Y = 1.500000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 110.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 2
+        object Layout14: TLayout
+          Align = Client
+          Size.Width = 50.000000000000000000
+          Size.Height = 110.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Circle3: TCircle
+            Align = Center
+            Size.Width = 70.000000000000000000
+            Size.Height = 70.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Layout15: TLayout
+            Align = Bottom
+            Position.Y = 85.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            object Path55: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path56: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 40.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path57: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 80.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path58: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 120.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path59: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 160.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path60: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 200.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path61: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 240.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path62: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 280.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path63: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 320.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+          end
+          object Layout16: TLayout
+            Align = Top
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+          end
+          object FloatAnimation4: TFloatAnimation
+            Enabled = True
+            Duration = 36.000000000000000000
+            Inverse = True
+            Loop = True
+            PropertyName = 'RotationAngle'
+            StartValue = 0.000000000000000000
+            StopValue = 1440.000000000000000000
+          end
+        end
+      end
+      object Layout17: TLayout
+        Align = HorzCenter
+        Position.X = 140.000000000000000000
+        RotationAngle = 120.000000000000000000
+        RotationCenter.Y = 1.500000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 110.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object Layout18: TLayout
+          Align = Client
+          Size.Width = 50.000000000000000000
+          Size.Height = 110.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Circle4: TCircle
+            Align = Center
+            Size.Width = 70.000000000000000000
+            Size.Height = 70.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Layout19: TLayout
+            Align = Bottom
+            Position.Y = 85.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            object Path64: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path65: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 40.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path66: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 80.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path67: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 120.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path68: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 160.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path69: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 200.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path70: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 240.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path71: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 280.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path72: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 320.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+          end
+          object Layout20: TLayout
+            Align = Top
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+          end
+          object FloatAnimation5: TFloatAnimation
+            Enabled = True
+            Duration = 36.000000000000000000
+            Inverse = True
+            Loop = True
+            PropertyName = 'RotationAngle'
+            StartValue = 0.000000000000000000
+            StopValue = 1440.000000000000000000
+          end
+        end
+      end
+      object Layout21: TLayout
+        Align = HorzCenter
+        Position.X = 140.000000000000000000
+        RotationAngle = 180.000000000000000000
+        RotationCenter.Y = 1.500000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 110.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object Layout22: TLayout
+          Align = Client
+          Size.Width = 50.000000000000000000
+          Size.Height = 110.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Circle5: TCircle
+            Align = Center
+            Size.Width = 70.000000000000000000
+            Size.Height = 70.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Layout23: TLayout
+            Align = Bottom
+            Position.Y = 85.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            object Path73: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path74: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 40.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path75: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 80.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path76: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 120.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path77: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 160.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path78: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 200.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path79: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 240.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path80: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 280.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path81: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 320.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+          end
+          object Layout24: TLayout
+            Align = Top
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+          end
+          object FloatAnimation6: TFloatAnimation
+            Enabled = True
+            Duration = 36.000000000000000000
+            Inverse = True
+            Loop = True
+            PropertyName = 'RotationAngle'
+            StartValue = 0.000000000000000000
+            StopValue = 1440.000000000000000000
+          end
+        end
+      end
+      object Layout25: TLayout
+        Align = HorzCenter
+        Position.X = 140.000000000000000000
+        RotationAngle = 240.000000000000000000
+        RotationCenter.Y = 1.500000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 110.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 4
+        object Layout26: TLayout
+          Align = Client
+          Size.Width = 50.000000000000000000
+          Size.Height = 110.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Circle6: TCircle
+            Align = Center
+            Size.Width = 70.000000000000000000
+            Size.Height = 70.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Layout27: TLayout
+            Align = Bottom
+            Position.Y = 85.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            object Path82: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path83: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 40.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path84: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 80.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path85: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 120.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path86: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 160.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path87: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 200.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path88: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 240.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path89: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 280.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path90: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 320.000000000000000000
+              RotationCenter.Y = -1.200000047683716000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+          end
+          object Layout28: TLayout
+            Align = Top
+            Size.Width = 50.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+          end
+          object FloatAnimation7: TFloatAnimation
+            Enabled = True
+            Duration = 36.000000000000000000
+            Inverse = True
+            Loop = True
+            PropertyName = 'RotationAngle'
+            StartValue = 0.000000000000000000
+            StopValue = 1440.000000000000000000
+          end
+        end
+      end
+    end
+    object FloatAnimation1: TFloatAnimation
+      Enabled = True
+      Duration = 36.000000000000000000
+      Loop = True
+      PropertyName = 'RotationAngle'
+      StartValue = 0.000000000000000000
+      StopValue = 360.000000000000000000
+    end
+    object Layout29: TLayout
+      Align = Bottom
+      Position.Y = 220.000000000000000000
+      Size.Width = 330.000000000000000000
+      Size.Height = 110.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+    end
+    object Circle7: TCircle
+      Align = Center
+      Fill.Kind = None
+      Size.Width = 260.000000000000000000
+      Size.Height = 260.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Color = xFFE0E0E0
+      Stroke.Thickness = 40.000000000000000000
+      object Circle8: TCircle
+        Align = Center
+        Fill.Kind = None
+        Size.Width = 180.000000000000000000
+        Size.Height = 180.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Circle9: TCircle
+        Align = Client
+        Fill.Kind = None
+        Size.Width = 260.000000000000000000
+        Size.Height = 260.000000000000000000
+        Size.PlatformDefault = False
+        object Layout30: TLayout
+          Align = Top
+          Size.Width = 260.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Circle12: TCircle
+            Align = Center
+            RotationAngle = 180.000000000000000000
+            RotationCenter.Y = 6.000000000000000000
+            Size.Width = 20.000000000000000000
+            Size.Height = 20.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Circle13: TCircle
+            Align = Center
+            RotationAngle = 240.000000000000000000
+            RotationCenter.Y = 6.000000000000000000
+            Size.Width = 20.000000000000000000
+            Size.Height = 20.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Circle14: TCircle
+            Align = Center
+            RotationAngle = 300.000000000000000000
+            RotationCenter.Y = 6.000000000000000000
+            Size.Width = 20.000000000000000000
+            Size.Height = 20.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Circle15: TCircle
+            Align = Center
+            RotationCenter.Y = 6.000000000000000000
+            Size.Width = 20.000000000000000000
+            Size.Height = 20.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Circle10: TCircle
+            Align = Center
+            RotationAngle = 60.000000000000000000
+            RotationCenter.Y = 6.000000000000000000
+            Size.Width = 20.000000000000000000
+            Size.Height = 20.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Circle11: TCircle
+            Align = Center
+            RotationAngle = 120.000000000000000000
+            RotationCenter.Y = 6.000000000000000000
+            Size.Width = 20.000000000000000000
+            Size.Height = 20.000000000000000000
+            Size.PlatformDefault = False
+          end
+        end
+      end
+      object Layout34: TLayout
+        Align = Center
+        TabOrder = 0
+        object Layout31: TLayout
+          Align = Center
+          RotationAngle = 17.500000000000000000
+          Size.Width = 140.000000000000000000
+          Size.Height = 140.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Circle16: TCircle
+            Align = Center
+            Size.Width = 96.000000000000000000
+            Size.Height = 96.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Layout33: TLayout
+            Align = Top
+            Size.Width = 140.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+          end
+          object Layout32: TLayout
+            Align = Bottom
+            Position.Y = 115.000000000000000000
+            Size.Width = 140.000000000000000000
+            Size.Height = 25.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            object Path91: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 90.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path92: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 120.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path93: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 150.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path94: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 180.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path95: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 210.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path96: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 240.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path97: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 270.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path98: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 300.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path99: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 330.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path100: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path101: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 30.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Path102: TPath
+              Align = Center
+              Data.Path = {
+                07000000000000000000000000000000020000000000803E0000003F02000000
+                000000000000003F020000000000003F0000803F020000000000803F0000003F
+                020000000000403F0000003F020000000000803F00000000}
+              RotationAngle = 60.000000000000000000
+              RotationCenter.Y = -1.799999952316284000
+              Size.Width = 25.000000000000000000
+              Size.Height = 25.000000000000000000
+              Size.PlatformDefault = False
+            end
+          end
+        end
+        object FloatAnimation8: TFloatAnimation
+          Enabled = True
+          Duration = 36.000000000000000000
+          Loop = True
+          PropertyName = 'RotationAngle'
+          StartValue = 0.000000000000000000
+          StartFromCurrent = True
+          StopValue = 1080.000000000000000000
+        end
+      end
+    end
+  end
+end

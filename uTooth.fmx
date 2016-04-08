@@ -1,0 +1,158 @@
+object frmTooth: TfrmTooth
+  Left = 0
+  Top = 0
+  Caption = 'Form10'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Path1: TPath
+    Data.Path = {
+      07000000000000000000000000000000020000000000803E0000003F02000000
+      000000000000803E020000000000003F0000803F020000000000803F0000803E
+      020000000000403F0000003F020000000000803F00000000}
+    Position.X = 300.000000000000000000
+    Position.Y = 200.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Line1: TLine
+    Align = Horizontal
+    LineType = Top
+    Position.Y = 200.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line2: TLine
+    Align = Horizontal
+    LineType = Top
+    Position.Y = 225.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line3: TLine
+    Align = Horizontal
+    LineType = Top
+    Position.Y = 250.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line4: TLine
+    Align = Horizontal
+    LineType = Top
+    Position.Y = 275.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line5: TLine
+    Align = Horizontal
+    LineType = Top
+    Position.Y = 300.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line6: TLine
+    Align = Vertical
+    LineType = Left
+    Position.X = 300.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line7: TLine
+    Align = Vertical
+    LineType = Left
+    Position.X = 325.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line8: TLine
+    Align = Vertical
+    LineType = Left
+    Position.X = 350.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line9: TLine
+    Align = Vertical
+    LineType = Left
+    Position.X = 375.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object Line10: TLine
+    Align = Vertical
+    LineType = Left
+    Position.X = 400.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claAqua
+    Stroke.Dash = Dot
+  end
+  object liC1: TLine
+    LineType = Diagonal
+    Position.X = 300.000000000000000000
+    Position.Y = 200.000000000000000000
+    Size.Width = 25.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claRed
+    Stroke.Dash = Dot
+  end
+  object liC2: TLine
+    LineType = Diagonal
+    Position.X = 300.000000000000000000
+    Position.Y = 225.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 75.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claRed
+    Stroke.Dash = Dot
+  end
+  object ciC1: TCircle
+    Fill.Color = claCrimson
+    Position.X = 320.000000000000000000
+    Position.Y = 245.000000000000000000
+    Size.Width = 10.000000000000000000
+    Size.Height = 10.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Circle1: TCircle
+    Fill.Color = claCrimson
+    Position.X = 295.000000000000000000
+    Position.Y = 220.000000000000000000
+    Size.Width = 10.000000000000000000
+    Size.Height = 10.000000000000000000
+    Size.PlatformDefault = False
+  end
+end
